@@ -23,7 +23,7 @@ NIM     : 120140065
 http://120140065.liveblog365.com/?i=1
 ```
 
-2. Silahkan perbesar gambar peta untuk mendapatkan gambar detail kampus.
+2. Silahkan perbesar gambar peta untuk mendapatkan gambar ikon kampus.
 
 ## Screenshoot
 
